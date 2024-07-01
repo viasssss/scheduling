@@ -1,0 +1,5 @@
+{
+  "name": "Roster Scheduling Assistant",
+  "description": "An intelligent scheduling tool that uses a greedy algorithm to automatically assign employees to shifts based on their availability. Input your team's availability and required shifts to generate an optimized roster.",
+  "requestFramePermissions": []
+}
